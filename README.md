@@ -4,8 +4,7 @@
    用来存放数据集，从天池官网下载
 - output文件夹
    保存之前训练好的模型和要提交的测试集标签文件
-- code
-   - character recognition.ipynb
+- character recognition.ipynb
    利用预训练模型ResNet18搭建神经网络模型，去除最后一个fc layer,并联5个fc layer用于分类。
    
 
